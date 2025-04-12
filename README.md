@@ -36,7 +36,7 @@ OpenAI(ChatGPT) 를 통한 나만의 자동화 음악 큐레이션 시스템
 이를 통해 음악 감상 경험을 풍부하게 확장하고, 창작자가 직접 편집하지 않아도 AI가 콘텐츠를 구성해주는 자동화된 미디어 생성 흐름을 구현하는 것이 주요 목표입니다.
 
 ## 🔨 프로젝트 아키텍처
-![Image](https://github.com/user-attachments/assets/a837aa44-d626-4f62-8bce-1fce6e90c4ca)
+![Image](https://github.com/user-attachments/assets/50c3a5f3-4b00-43b9-843d-d0492bcb2d7b)
 
 ## 📱 기능 설명
 
