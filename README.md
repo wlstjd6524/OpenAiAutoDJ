@@ -39,4 +39,17 @@ OpenAI(ChatGPT) 를 통한 나만의 자동화 음악 큐레이션 시스템
 ![Image](https://github.com/user-attachments/assets/50c3a5f3-4b00-43b9-843d-d0492bcb2d7b)
 
 ## 📱 기능 설명
+- 생성형 AI의 GPT API 환경을 코드값으로 설정한 Main 화면 <br> <br>
+![Image](https://github.com/user-attachments/assets/cf4173d0-64e2-4ae2-8535-2a238bae0650)
 
+- 생성형 AI와 설정된 Prompt 값을 토대로 대화를 하며 자동화 큐레이션 시스템을 이용 <br> <br>
+![Image](https://github.com/user-attachments/assets/55fbde24-617d-4e49-8d31-81d1c3938438)
+
+- MP3 파일 경로가 존재하고 이미지 파일이 존재하였을 때 해당값들을 통해 통합된 영상을 제작 <br> <br>
+![Image](https://github.com/user-attachments/assets/ac992028-12bb-4cc4-bee8-5d24ea50284b)
+
+- dreamlike-diffusion 을 통해 만들어진 AI 자동화 이미지 모습들 <br> <br>
+![Image](https://github.com/user-attachments/assets/066cec6f-3fd5-49f2-92d8-f7726d28effa)
+
+- 해당 GPT API 환경을 통해 통합적으로 완성되었을 때 출력되는 HTML 환경 <br> <br>
+![Image](https://github.com/user-attachments/assets/448a6a7c-18b0-4f89-8cb1-467d0b872bba)
