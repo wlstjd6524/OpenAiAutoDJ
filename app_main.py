@@ -10,6 +10,7 @@ from generate_image import generate_images_for_songs
 from generate_video_using_images import generate_video_using_images
 from generate_video_using_mp4 import generate_video_using_mp4
 
+# 고유 openaiAPIKey 가 GitHub 에 노출될 경우 commit 이 안되는 상황으로 My_Key 값으로 대체하였습니다.
 openai.api_key = 'My_Key'
 
 # response에 CSV 형식이 있는지 확인하고 있으면 저장하기
